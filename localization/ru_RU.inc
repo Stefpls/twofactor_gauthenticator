@@ -4,7 +4,7 @@
 $labels = array();
 $labels['activate'] = 'Активировать';
 $labels['twofactor_gauthenticator'] = 'Двухэтапная аутентификация';
-$labels['code'] = 'Код Google аутентификации';
+$labels['code'] = 'Код TOTP аутентификации';
 
 $labels['two_step_verification_form'] = 'Двухэтапная Аутентификация';
 
@@ -25,7 +25,7 @@ $labels['hide_recovery_codes'] = 'Скрыть коды';
 
 $labels['setup_all_fields'] = 'Заполнить все поля (необходимо Сохранить)';
 
-$labels['enrollment_dialog_title'] = 'Двухэтапная Google аутентификация';
+$labels['enrollment_dialog_title'] = 'Двухэтапная TOTP аутентификация';
 $labels['enrollment_dialog_msg'] = '<strong>Коды двухэтапной аутентификации</strong> требуются для безопасности, пожалуйста настройте';
 
 $labels['check_code'] = 'Проверить код';
